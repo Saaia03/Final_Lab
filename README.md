@@ -5,4 +5,4 @@
 3) запускаем bot.py
 4) проверяем в телеграм
 
-Telegram бот - @ntsd8_bot
+Telegram бот - t.me/ntsd8_bot
